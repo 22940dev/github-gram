@@ -1,7 +1,6 @@
 <div align="center">
 <h2>GitHub-gram</h2>
-<img alt="build passing" src="https://img.shields.io/badge/build-passing-green.svg">
-<img alt="MIT" src="https://img.shields.io/badge/license-MIT-green.svg">
+
 </div>
 
 ## Introduction
